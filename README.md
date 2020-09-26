@@ -3,7 +3,7 @@
 
 # This is two guides
 
-I began with the Fallout 3 STEP guide "Clear and Present Danger" from [Kelmych] available [here](https://wiki.step-project.com/User:Kelmych/Fallout3). I removed mods I found to be problematic, such as "20th century weapons" with its nightmare of patches and "RobCo Certified" with compatibility problems. I also took out a couple things not to my taste. Can't remember what, sorry. There were a few remaining items that were left untextured, so for those I filled in details and highlights from the "Fallout 3 Overhaul Guide" available [here](https://www.nexusmods.com/fallout3/mods/23468). All credit goes to those authors, all I did was create an automated installtion blending those two approaches. Please don't bother anyone on STEP or the Nexus about this abortion, I'll handle any and all questions because it's my responsibility.
+I began with the Fallout 3 STEP guide "Clear and Present Danger" from [Kelmych] available [here](https://wiki.step-project.com/User:Kelmych/Fallout3). I removed mods I found to be problematic, such as "20th century weapons" with its nightmare of patches and "RobCo Certified" with compatibility problems. I also took out a couple things not to my taste. Can't remember what, sorry. There were a few remaining items that were left untextured, so for those I filled in details and highlights from the "Fallout 3 Overhaul Guide" available [here](https://www.nexusmods.com/fallout3/mods/23468). All credit goes to those authors, all I did was create an automated installation blending those two approaches. Please don't bother anyone on STEP or the Nexus about this abortion, I'll handle any and all questions because it's my responsibility.
 
 # Known problems
 
