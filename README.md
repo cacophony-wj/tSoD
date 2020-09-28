@@ -55,3 +55,24 @@ I began with the Fallout 3 STEP guide "Clear and Present Danger" from [Kelmych] 
 ### Known problems
 
 Experience gains are too high. You'll jump 40XP discovering Springvale just outside the Vault which will bump you halfway to level 3 since you'll already be level 2 from Vault 101's bullcrap. I know nothing about how to correct this yet. Also, Fallout Redesigned (Project Beauty) seems to be a rather inconsistent mod. Caucasian heads on African bodies, pasty white faces, the list goes on. I have tried all the solutions the crappy search engines will give me but have yet to find a satisfactory answer other than removing the mod. I decided not to do that since the NPCs that work look damn good. I thought to remove the body replacers too but all the armors fit those meshes and have the weird black bars on chests problem if you deactivate them. Another thing, don't message me about neck seams. Nobody ever solved neck seams in Fallout 3 or NV. The best solution was... equipping every NPC with a blingy neck chain to cover it up. Also the body replacers are nude, so don't play this in a sensitive environment.
+
+## Can't launch the game
+
+_Application Load Error X_
+
+Some users are unable to launch FO3 from MO2 but fine from the main directory, and get an error like this. It seems Win10 still hates FO3 in some cases. All I can do is offer suggestions that may or may not work.
+
+First make sure you have a fully purchased and legal copy of FO3. Don't ask me any questions if you dont.
+
+Next verify all your Fallout 3 files from Steam. You should know how to do this already. Google it if you don't.
+
+If you have the GOG version completely uninstall it, delete all Fallout 3 folders in Program Data, AppData, and My Documents, and reinstall it.
+
+Next make sure that your main Steam folder is on the same hard drive and partition as Fallout 3.
+
+Now we're gonna get a little weird. Try copying your Steam.exe to your Fallout 3 folder and seeing if it launches
+
+Failing that, try all the steps in kelmych's original troubleshooting section available [here](https://wiki.step-project.com/User:Kelmych/Fallout3#Troubleshooting)
+
+Other than that, I got nothin'. Sorry.
+
