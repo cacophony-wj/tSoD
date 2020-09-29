@@ -1,5 +1,12 @@
 #CHANGELOG
 
+### 0.0.5
+
+- I think I have the Application Load Error problem sorted out by now. Added some steps to the readme for potential future troubleshooting.
+- Removed HD Robots Retexture as it is on Mediafire (which is a bitch
+- Replaced Mothership Zeta HD with Mothership Zeta Lowres because the HD is on Yandisk (??????)
+- Cleaned up the downloads folder of a few mods that aren't actually in the list.
+
 ### 0.0.4
 
 Generated FaceGen data in the CK for all NPCs. This seems to have fixed the albino faces but made noticeable texture glitches on the male bodies much more apparent. I will consider removing Robert's since I doubt many people want to see that anyway.
