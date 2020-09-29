@@ -26,9 +26,11 @@ If it's the Steam version, it's in /steamapps/common/fallout 3 goty/ inside your
 
 If its the GOG version, it will be whatever folder you picked. 
 
+Next you need to launch FO3 _via the official launcher and **NOT** from within MO2._ This finalizes the necessary initializaation of files.
+
 If you have the GOG version, ignore the paragraph below.
 
-If you have the Steam version, first you need to run some files inside the Fallout 3 directory (described above). First double-click the _Games For Windows Live Disabler._ It's self-explanatory but I'll explain it anyway. Launch it and click Disable GFWL. You can also turn off the GFWL menu in FO3 if you want. Next launch the _4GB Patch._ A little thingie will pop up asking you which file you want, double click _Fallout3.exe_. A message will say "Executable Patched!" click _Another File_ and double-click _Fallout 3 Launcher.exe_. A message will say "Executable Patched!" now close the 4GB Patch.exe
+If you have the Steam version, you need to run some files inside the Fallout 3 directory (described above). First double-click the _Games For Windows Live Disabler._ It's self-explanatory but I'll explain it anyway. Launch it and click Disable GFWL. You can also turn off the GFWL menu in FO3 if you want. Next launch the _4GB Patch._ A little thingie will pop up asking you which file you want, double click _Fallout3.exe_. A message will say "Executable Patched!" click _Another File_ and double-click _Fallout 3 Launcher.exe_. A message will say "Executable Patched!" now close the 4GB Patch.exe
 
 You should be okay to play now, but keep in mind once you get out of _Vault 101_ and watch the little newly-added [SPOILER] scene there, you will need to **CHANGE FALLOUT WANDERER'S TERRIBLE TIMESCALE.**
 
@@ -46,16 +48,6 @@ Now get out there in the hell of the wastes and have yourself a ball!
 
 Drop a line in [#unofficial-modlist-support] on the **Wabbajack Discord Server** if you need help. The list is only available there, so you should be there already. I can't guarantee I can fix your problem but I can damn well try.
 
-# I would prefer you read the below as well. But if you don't, at least your game will work.
-
-### This is two guides
-
-I began with the Fallout 3 STEP guide "Clear and Present Danger" from [Kelmych] available [here](https://wiki.step-project.com/User:Kelmych/Fallout3). I removed mods I found to be problematic, such as "20th century weapons" with its nightmare of patches and "RobCo Certified" with compatibility problems. I also took out a couple things not to my taste. Can't remember what, sorry. There were a few remaining items that were left untextured, so for those I filled in details and highlights from the "Fallout 3 Overhaul Guide" available [here](https://www.nexusmods.com/fallout3/mods/23468). All credit goes to those authors, all I did was create an automated installation blending those two approaches. Please don't bother anyone on STEP or the Nexus about this abortion, I'll handle any and all questions because it's my responsibility.
-
-### Known problems
-
-Experience gains are too high. You'll jump 40XP discovering Springvale just outside the Vault which will bump you halfway to level 3 since you'll already be level 2 from Vault 101's bullcrap. I know nothing about how to correct this yet. Also, Fallout Redesigned (Project Beauty) seems to be a rather inconsistent mod. Caucasian heads on African bodies, pasty white faces, the list goes on. I have tried all the solutions the crappy search engines will give me but have yet to find a satisfactory answer other than removing the mod. I decided not to do that since the NPCs that work look damn good. I thought to remove the body replacers too but all the armors fit those meshes and have the weird black bars on chests problem if you deactivate them. Another thing, don't message me about neck seams. Nobody ever solved neck seams in Fallout 3 or NV. The best solution was... equipping every NPC with a blingy neck chain to cover it up. Also the body replacers are nude, so don't play this in a sensitive environment.
-
 ## Can't launch the game
 
 _Application Load Error X_
@@ -63,8 +55,6 @@ _Application Load Error X_
 Some users are unable to launch FO3 from MO2 but fine from the main directory, and get an error like this. It seems Win10 still hates FO3 in some cases. 
 
 All I can do is offer suggestions that may or may not work.
-
-First thing you want to check is the dropdown edit for FOSE. Go to "Force Load Libraries" and make sure all three libraries have checkmarks beside them. 
 
 Next make sure you have a fully purchased and legal copy of FO3. Don't ask me any questions if you dont.
 
@@ -79,4 +69,12 @@ Now we're gonna get a little weird. Try copying your Steam.exe to your Fallout 3
 Failing that, try all the steps in kelmych's original troubleshooting section available [here](https://wiki.step-project.com/User:Kelmych/Fallout3#Troubleshooting)
 
 Other than that, I got nothin'. Sorry.
+
+### This is two guides
+
+I began with the Fallout 3 STEP guide "Clear and Present Danger" from [Kelmych] available [here](https://wiki.step-project.com/User:Kelmych/Fallout3). I removed mods I found to be problematic, such as "20th century weapons" with its nightmare of patches and "RobCo Certified" with compatibility problems. I also took out a couple things not to my taste. Can't remember what, sorry. There were a few remaining items that were left untextured, so for those I filled in details and highlights from the "Fallout 3 Overhaul Guide" available [here](https://www.nexusmods.com/fallout3/mods/23468). All credit goes to those authors, all I did was create an automated installation blending those two approaches. Please don't bother anyone on STEP or the Nexus about this abortion, I'll handle any and all questions because it's my responsibility.
+
+### Known problems
+
+Experience gains are too high. You'll jump 40XP discovering Springvale just outside the Vault which will bump you halfway to level 3 since you'll already be level 2 from Vault 101's bullcrap. I know nothing about how to correct this yet. Also, Fallout Redesigned (Project Beauty) seems to be a rather inconsistent mod. Caucasian heads on African bodies, pasty white faces, the list goes on. I have tried all the solutions the crappy search engines will give me but have yet to find a satisfactory answer other than removing the mod. I decided not to do that since the NPCs that work look damn good. I thought to remove the body replacers too but all the armors fit those meshes and have the weird black bars on chests problem if you deactivate them. Another thing, don't message me about neck seams. Nobody ever solved neck seams in Fallout 3 or NV. The best solution was... equipping every NPC with a blingy neck chain to cover it up. Also the body replacers are nude, so don't play this in a sensitive environment.
 
