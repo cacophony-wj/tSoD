@@ -60,9 +60,13 @@ Experience gains are too high. You'll jump 40XP discovering Springvale just outs
 
 _Application Load Error X_
 
-Some users are unable to launch FO3 from MO2 but fine from the main directory, and get an error like this. It seems Win10 still hates FO3 in some cases. All I can do is offer suggestions that may or may not work.
+Some users are unable to launch FO3 from MO2 but fine from the main directory, and get an error like this. It seems Win10 still hates FO3 in some cases. 
 
-First make sure you have a fully purchased and legal copy of FO3. Don't ask me any questions if you dont.
+All I can do is offer suggestions that may or may not work.
+
+First thing you want to check is the dropdown edit for FOSE. Go to "Force Load Libraries" and make sure all three libraries have checkmarks beside them. 
+
+Next make sure you have a fully purchased and legal copy of FO3. Don't ask me any questions if you dont.
 
 Next verify all your Fallout 3 files from Steam. You should know how to do this already. Google it if you don't.
 
