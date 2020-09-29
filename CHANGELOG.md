@@ -6,6 +6,7 @@
 - Removed HD Robots Retexture as it is on Mediafire (which is a bitch
 - Replaced Mothership Zeta HD with Mothership Zeta Lowres because the HD is on Yandisk (??????)
 - Cleaned up the downloads folder of a few mods that aren't actually in the list.
+- Removed a couple of optional ESPs that wouldn't compile because of the above.
 
 ### 0.0.4
 
