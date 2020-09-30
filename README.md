@@ -52,23 +52,25 @@ Drop a line in [#unofficial-modlist-support] on the **Wabbajack Discord Server**
 
 _Application Load Error X_
 
-Some users are unable to launch FO3 from MO2 but fine from the main directory, and get an error like this. It seems Win10 still hates FO3 in some cases. 
+Some users are unable to launch the Steam version FO3 from MO2 but fine from the main directory, and get an error like this. It seems Win10 still hates FO3 in some cases. 
 
-All I can do is offer suggestions that may or may not work.
+Bear in mind that you will save yourself a lot of potential headache and troubleshooting by simply buying a copy of _FO3_ from GOG and using that version. It is already ready to go, it's a great game, and you'll be supporting a great company that puts consumer rights near the top of its priorities.
 
-Next make sure you have a fully purchased and legal copy of FO3. Don't ask me any questions if you dont.
+If that's not in the card for you for whatever reason, I have two confirmed reports of this Steam error's resolution using the steps below _exactly as written_.
 
-Next verify all your Fallout 3 files from Steam. You should know how to do this already. Google it if you don't.
+1. Uninstall _Fallout 3_ completely (if you have it installed), including all directories in Documents/My Games, AppData/Local, and ProgramData. If you don't know where these directories are, Google them.
 
-If you have the GOG version completely uninstall it, delete all Fallout 3 folders in Program Data, AppData, and My Documents, and reinstall it.
+2. Install _Fallout 3_ and launch it _from within Steam._ Configure all settings as specified above and click **PLAY**. Exit as soon as you reach the main menu.
 
-Next make sure that your main Steam folder is on the same hard drive and partition as Fallout 3.
+3. Copy over all the game folder files as specified above.
 
-Now we're gonna get a little weird. Try copying your Steam.exe to your Fallout 3 folder and seeing if it launches
+4. This is going to seem a bit weird. Choose the option to _Manage game..._ within Steam and _verify local game files._ If you need assistance with this part, refer to Google.
 
-Failing that, try all the steps in kelmych's original troubleshooting section available [here](https://wiki.step-project.com/User:Kelmych/Fallout3#Troubleshooting)
+5. Launch _Fallout 3_ or the _Fallout 3_ Launcher from _within MO2 **not** Steam. If the launcher does not appear, copy the _fallout.ini_ and _falloutprefs.ini_ from My Documents/My Games/Fallout 3 to Sleep of Death/profiles/Sleep of Death.
 
-Other than that, I got nothin'. Sorry.
+6. Close MO2 and perform the relevant steps above regarding the _GFWL Disabler_ and the _4GB Patch_ for both executables.
+
+7. Finally launch MO2 and then the game with **FOSE [AKA THE GAME]**
 
 ### This is two guides
 
