@@ -1,5 +1,9 @@
 #CHANGELOG
 
+### 0.0.6
+
+I configured every esp and esm in the LO to be locked in position. Hopefully this will prevent it from reverting to an alphabetical listing.
+
 ### 0.0.5
 
 - I think I have the Application Load Error problem sorted out by now. Added some steps to the readme for potential future troubleshooting.
