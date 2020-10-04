@@ -1,5 +1,9 @@
 #CHANGELOG
 
+### 0.0.7
+
+Fixed the non-functional iron sights on the AK47s and MP5s. Should be safe to continue your save, it was like a five-click solution.
+
 ### 0.0.6
 
 I configured every esp and esm in the LO to be locked in position. Hopefully this will prevent it from reverting to an alphabetical listing.

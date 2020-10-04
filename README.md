@@ -74,6 +74,8 @@ If that's not in the card for you for whatever reason, I have two confirmed repo
 
 8. If you are _still_ having issues after all this, try setting _MO2_ to run in Administrator mode.
 
+9. Finally, as a last resort, copy the _INI files_ from _Documents_/My Games/Fallout 3 to _tSoD_/profiles/The Sleep of Death. _This is not an ideal solution_ but at this point I am at a loss.
+
 ### This is two guides
 
 I began with the Fallout 3 STEP guide "Clear and Present Danger" from [Kelmych] available [here](https://wiki.step-project.com/User:Kelmych/Fallout3). I removed mods I found to be problematic, such as "20th century weapons" with its nightmare of patches and "RobCo Certified" with compatibility problems. I also took out a couple things not to my taste. Can't remember what, sorry. There were a few remaining items that were left untextured, so for those I filled in details and highlights from the "Fallout 3 Overhaul Guide" available [here](https://www.nexusmods.com/fallout3/mods/23468). All credit goes to those authors, all I did was create an automated installation blending those two approaches. Please don't bother anyone on STEP or the Nexus about this abortion, I'll handle any and all questions because it's my responsibility.
