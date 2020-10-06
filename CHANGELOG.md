@@ -1,5 +1,9 @@
 #CHANGELOG
 
+### 0.0.8
+
+There was an issue with purified water and dirty water not quenching thirst. I corrected this as well as a few other drinks. It appears, though, that Nuka-Cola Quantum was never intended to quench thirst and instead serves as a performance-enhancing drug!
+
 ### 0.0.7
 
 Fixed the non-functional iron sights on the AK47s and MP5s. Should be safe to continue your save, it was like a five-click solution.
