@@ -76,11 +76,11 @@ If that's not in the card for you for whatever reason, I have two confirmed repo
 
 9. Finally, as a last resort, copy the _INI files_ from _Documents_/My Games/Fallout 3 to _tSoD_/profiles/The Sleep of Death. _This is not an ideal solution_ but at this point I am at a loss.
 
+## The infamous albino faces
+
+If you get an issue where every third black person has a pasty white face, try adding _bLoadFaceGenHeadEGTFiles=1_ under the [General] section of **all** Fallout related INIs on your system, including _Fallout_default.ini_ in your game's folder, all fallout inis in _Documents/My Games/Fallout3/_ and all fallout inis in _tSoD/profiles/The Sleep of Death_. This is a weird fix but it sometimes solves the issue. If it does not, I'm afraid I can't help you with this problem further.
+
 ### This is two guides
 
 I began with the Fallout 3 STEP guide "Clear and Present Danger" from [Kelmych] available [here](https://wiki.step-project.com/User:Kelmych/Fallout3). I removed mods I found to be problematic, such as "20th century weapons" with its nightmare of patches and "RobCo Certified" with compatibility problems. I also took out a couple things not to my taste. Can't remember what, sorry. There were a few remaining items that were left untextured, so for those I filled in details and highlights from the "Fallout 3 Overhaul Guide" available [here](https://www.nexusmods.com/fallout3/mods/23468). All credit goes to those authors, all I did was create an automated installation blending those two approaches. Please don't bother anyone on STEP or the Nexus about this abortion, I'll handle any and all questions because it's my responsibility.
-
-### Known problems
-
-Experience point gains for discovering locations are a bit high, in my opinion. More seriously, Fallout Redesigned (Project Beauty) seems to be a rather inconsistent mod. Caucasian heads on African bodies, pasty white faces, the list goes on. I have tried all the solutions the crappy search engines will give me but have yet to find a satisfactory answer other than removing the mod. I decided not to do that since the NPCs that work look damn good. I thought to remove the body replacers too but all the armors fit those meshes and have the weird black bars on chests problem if you deactivate them. Another thing, don't message me about neck seams. Nobody ever solved neck seams in Fallout 3 or NV. The best solution was... equipping every NPC with a blingy neck chain to cover it up. Also the body replacers are nude, so don't play this in a sensitive environment.
 
