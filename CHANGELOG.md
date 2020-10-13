@@ -1,5 +1,15 @@
 #CHANGELOG
 
+### 0.0.10
+
+This update cleans the Anchorage.esm properly to unfuck what xEdit fucked. Dammit.
+
+**Without this update parts of Operation Anchorage will be completely empty**
+
+### 0.0.9
+
+Removed "DLC AdBlocker." The mod to prevent DLC popups is incompatible with the mod that alters the DLC. Whoda thunk? :\
+
 ### 0.0.8
 
 There was an issue with purified water and dirty water not quenching thirst. I corrected this as well as a few other drinks. It appears, though, that Nuka-Cola Quantum was never intended to quench thirst and instead serves as a performance-enhancing drug!
