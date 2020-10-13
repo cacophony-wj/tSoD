@@ -20,9 +20,9 @@ Inside the folder where you installed _The Sleep of Death_, you will find a "gam
 
 All of files inside this folder need to be copied to your Fallout 3 directory, wherever that might be. 
 
-There are two _libvorbis_ files in there that will be overwritten. Back them up first.
+Backup your vorbis file(s) before doing so and allow all overwrites.
 
-If it's the Steam version, it's in /steamapps/common/fallout 3 goty/ inside your Steam folder. Yes, you must have the goty version. No, it will not work otherwise.
+If it's the Steam version, they are in /steamapps/common/fallout 3 goty/ inside your Steam folder. Yes, you must have the goty version. No, it will not work otherwise.
 
 If its the GOG version, it will be whatever folder you picked. 
 
@@ -56,7 +56,7 @@ Some users are unable to launch the Steam version FO3 from MO2 but fine from the
 
 Bear in mind that you will save yourself a lot of potential headache and troubleshooting by simply buying a copy of _FO3_ from GOG and using that version. It is already ready to go, it's a great game, and you'll be supporting a great company that puts consumer rights near the top of its priorities.
 
-If that's not in the card for you for whatever reason, I have two confirmed reports of this Steam error's resolution using the steps below _exactly as written_.
+If that's not in the cards for you for whatever reason, I have two confirmed reports of this Steam error's resolution using the steps below _exactly as written_.
 
 1. Uninstall _Fallout 3_ completely (if you have it installed), including all directories in Documents/My Games, AppData/Local, and ProgramData. If you don't know where these directories are, Google them.
 
