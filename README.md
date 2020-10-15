@@ -76,9 +76,11 @@ If that's not in the cards for you for whatever reason, I have two confirmed rep
 
 9. Finally, as a last resort, copy the _INI files_ from _Documents_/My Games/Fallout 3 to _tSoD_/profiles/The Sleep of Death. _This is not an ideal solution_ but at this point I am at a loss.
 
-## The infamous albino faces
+## Known Issues
 
 If you get an issue where every third black person has a pasty white face, try adding _bLoadFaceGenHeadEGTFiles=1_ under the [General] section of **all** Fallout related INIs on your system, including _Fallout_default.ini_ in your game's folder, all fallout inis in _Documents/My Games/Fallout3/_ and all fallout inis in _tSoD/profiles/The Sleep of Death_. This is a weird fix but it sometimes solves the issue. If it does not, I'm afraid I can't help you with this problem further.
+
+Potential spoiler regarding equipment! Later in the game you have access to the _Adaptive Combat Rifle_. This is an amazing weapons platform that lets you swap out barrels, scopes, magazines, and attachments on the fly to create your own custom rifle based on how you need to use it. Unfortunately based on my research and testing, the mod is horribly broken. Certain combinations of components will render the first person model invisible -- for example, do not attach either the laser pointer or the tripod mount or you will hold an invisible gun. If you build an invisible weapons platform you'll just have to swap things out until you get something visible. Finally, the iron sights mod does *not* take this weapon into account as it was never designed for it. Iron sights will NOT work... you will either have to hip fire or use one of the scopes. (I am particularly fond of the ACOG.)
 
 ### This is two guides
 

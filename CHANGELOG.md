@@ -1,6 +1,16 @@
 #CHANGELOG
 
-### 0.0.10
+### 0.0.12
+
+- Fixes some of the bugs with the Adaptive Combat Rifle weapons system. Doesn't fix all of them as the mod is perfectly broken in some ways. If you find this weapon, check the readme for details.
+- Changed the color of the HUD and PIPBOY to make the damn map icons legible.
+- Unticked process archives because that was making the MO2 refresh delay godawful. Thank goodness I stumbled upon that answer!### 0.0.10
+
+### 0.0.11
+
+Fixed a bug where the Operation Anchorage DLC was impossible to start via dialog. Should be save safe.
+
+### 0.0.10 
 
 This update cleans the Anchorage.esm properly to unfuck what xEdit fucked. Dammit.
 
