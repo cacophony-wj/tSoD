@@ -36,7 +36,9 @@ You should be okay to play now, but keep in mind once you get out of _Vault 101_
 
 Fallout 3 is weird, it didn't even have a mod configuration menu. So you have to do everything with little items scattered all around your PIPBOY. Annoying, right?
 
-Open your _PIPBOY_ and select apparel. My memory is fuzzy but click something that says _Configure FWE_, then _Immersion Settings_, then Set the _Timescale_ to **30:1 - VANILLA**. _Everything will break if you don't do this!_
+Open your _PIPBOY_ and select apparel. My memory is fuzzy but click something that says _Configure FWE_, then _Immersion Settings_, then Set the _Timescale_ to **10:1 - VANILLA**. _Everything will break if you don't do this!_
+
+There are now a couple of changes to make with power armor. **Keep in mind, _Powered Power Armor_ makes it so that the armor must be powered up now or otherwise you will suffer severe debuffs from fighting the weight of it!** (Imagine driving a car without power steering.) Check that mod's description if you have questions. For now, open the _PA Config_ menu, once again in apparel, and configure the power draw and temperature change to their minimum values of **0.05**. This is so you don't run out of power every three seconds on the vanilla timescale. Next, go into general settings and disable power armor scaling. This is so you don't get a bug preventing you from activating certain objects because the game still thinks you're a baby.
 
 Lastly, I'm not gonna tell you what to do with the rest of your life. Play around with all those bullcrap items and get your game the way you think you'll like it. You'll probably want to leave fast travel on, but hey, to each their own.
 
@@ -78,7 +80,11 @@ If that's not in the cards for you for whatever reason, I have two confirmed rep
 
 ## Known Issues
 
+### Albino Faces, aka Black and White People
+
 If you get an issue where every third black person has a pasty white face, try adding _bLoadFaceGenHeadEGTFiles=1_ under the [General] section of **all** Fallout related INIs on your system, including _Fallout_default.ini_ in your game's folder, all fallout inis in _Documents/My Games/Fallout3/_ and all fallout inis in _tSoD/profiles/The Sleep of Death_. This is a weird fix but it sometimes solves the issue. If it does not, I'm afraid I can't help you with this problem further.
+
+### Adaptive Combat Rifle Bugs
 
 Potential spoiler regarding equipment! Later in the game you have access to the _Adaptive Combat Rifle_. This is an amazing weapons platform that lets you swap out barrels, scopes, magazines, and attachments on the fly to create your own custom rifle based on how you need to use it. Unfortunately based on my research and testing, the mod is horribly broken. Certain combinations of components will render the first person model invisible -- for example, do not attach either the laser pointer or the tripod mount or you will hold an invisible gun. If you build an invisible weapons platform you'll just have to swap things out until you get something visible. Finally, the iron sights mod does *not* take this weapon into account as it was never designed for it. Iron sights will NOT work... you will either have to hip fire or use one of the scopes. (I am particularly fond of the ACOG.)
 

@@ -1,5 +1,10 @@
 #CHANGELOG
 
+### 0.0.13
+
+- Civis Romanus was supposed to fix the inability to get back into the Outcast Base. It didn't. So I added a fix for the fix.
+- Researched Powered Power Armor compatibility issues, updated the readme with recommendations.
+
 ### 0.0.12
 
 - Fixes some of the bugs with the Adaptive Combat Rifle weapons system. Doesn't fix all of them as the mod is perfectly broken in some ways. If you find this weapon, check the readme for details.
