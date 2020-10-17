@@ -45,7 +45,7 @@ Next you need to launch FO3 _via the official launcher and **NOT** from within M
 
 If you have the GOG version, ignore the paragraph below.
 
-If you have the Steam version, you need to run some files inside the Fallout 3 directory (described above). First double-click the _Games For Windows Live Disabler._ It's self-explanatory but I'll explain it anyway. Launch it and click Disable GFWL. You can also turn off the GFWL menu in FO3 if you want. Next launch the _4GB Patch._ A little thingie will pop up asking you which file you want, double click _Fallout3.exe_. A message will say "Executable Patched!" click _Another File_ and double-click _Fallout 3 Launcher.exe_. A message will say "Executable Patched!" now close the 4GB Patch.exe
+If you have the Steam version, you need to run some files inside the Fallout 3 directory (described above). First double-click the _Games For Windows Live Disabler._ It's self-explanatory but I'll explain it anyway. Launch it and click Disable GFWL. You can also turn off the GFWL menu in FO3 if you want. Next launch the _4GB Patch._ A little thingie will pop up asking you which file you want, double click _Fallout3.exe_. A message will say "Executable Patched!" now close the 4GB Patch.exe
 
 You should be okay to play now, but keep in mind once you get out of _Vault 101_ and watch the little newly-added [SPOILER] scene there, you will need to **CHANGE FALLOUT WANDERER'S TERRIBLE TIMESCALE.**
 
