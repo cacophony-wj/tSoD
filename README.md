@@ -94,6 +94,14 @@ I began with the Fallout 3 STEP guide "Clear and Present Danger" from [Kelmych] 
 
 ## Gameplay Questions
 
+### Why is my VATS accuracy so high?
+
+Feature of _Fallout Wanderer's Edition_. Customize the combat-related settings if you don't like the default, you can change it so your guns skills affect accuracy, damage, both, or neither, in varying amounts. The default, I think, is balanced for an accurate marksman fighting overwhelming odds which are brought about by _Martigen's Mutant Mod_ and its "Increased Spawns" feature (which is also on by default, seriously, there will be about 30 - 50 raiders in Super Duper Mart)
+
+### Why is power armor _reducing_ my carry weight?
+
+This is a "feature" of _Fallout Wanderer's Edition,_ which I think mainly exists to prevent you from rushing through _Operation Anchorage_ at level 5 and grabbing the Winterized T51b set for smooth sailing through the rest of the game. Basically there are now two levels to power armor training... "Basic" and "Advanced"... and you need both not to gain stat buffs, but to avoid debuffs. Without these perks, your carry weight and agility will be significantly reduced while wearing Power Armor. The only way to get Advanced Power Armor training is to select it at level 18. There are no other requirements. I would prefer not to patch 32 power armor variants to remove a core feature of one of the central mods, so if you don't like these debuffs please just console yourself the advanced training perk.
+
 ### Arefu Expanded
 
 This mod is kinda a little bit of a nightmare. Not only were there about a dozen deleted navmeshes that I had to manually replace, which would have caused crash after crash if left untouched, the quest descriptions are just bad, the markers are non-existent, and the McGuffins you are tasked to find are almost indistinguishable from the landscape. So I added this section to help.
