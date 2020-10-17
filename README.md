@@ -92,3 +92,18 @@ Potential spoiler regarding equipment! Later in the game you have access to the 
 
 I began with the Fallout 3 STEP guide "Clear and Present Danger" from [Kelmych] available [here](https://wiki.step-project.com/User:Kelmych/Fallout3). I removed mods I found to be problematic, such as "20th century weapons" with its nightmare of patches and "RobCo Certified" with compatibility problems. I also took out a couple things not to my taste. Can't remember what, sorry. There were a few remaining items that were left untextured, so for those I filled in details and highlights from the "Fallout 3 Overhaul Guide" available [here](https://www.nexusmods.com/fallout3/mods/23468). All credit goes to those authors, all I did was create an automated installation blending those two approaches. Please don't bother anyone on STEP or the Nexus about this abortion, I'll handle any and all questions because it's my responsibility.
 
+## Gameplay Questions
+
+### Arefu Expanded
+
+This mod is kinda a little bit of a nightmare. Not only were there about a dozen deleted navmeshes that I had to manually replace, which would have caused crash after crash if left untouched, the quest descriptions are just bad, the markers are non-existent, and the McGuffins you are tasked to find are almost indistinguishable from the landscape. So I added this section to help.
+
+#### Where the fuck is Mary?
+
+Go to the quest marker that Mediah directs you to, then search for a pile of bones. You'll see a trail of blood leading to a "door" labeled Abandoned Construction Site. She's in there somewhere.
+
+#### Where the fuck are Harry's tools?
+
+This was perhaps the most infuriating of all to me. Head east of Arefu and look up at the bridge. Harry's house is the second shack from the right. (The far right one is the northern barricade). Somewhat east-north-east of Harry's house, on the ground below of course, you'll find a small smoking campfire. A note there tells you where one of the tools can be found. 
+The other two are nearby: the hammer on top of a bullshit rock slightly south, and the wrench wedged nearly entirely inside a tree near the rock. I can't get much more specific than that, sorry.
+
