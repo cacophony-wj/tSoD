@@ -4,6 +4,21 @@
 
 # IF YOU DO NOT READ AND DO ALL OF THIS YOUR GAME WILL NOT WORK
 
+- [The Sleep of Death - A Fallout 3 Modlist for Wabbajack](#the-sleep-of-death---a-fallout-3-modlist-for-wabbajack)
+- [THIS IS IMPORTANT!](#this-is-important)
+- [IF YOU DO NOT READ AND DO ALL OF THIS YOUR GAME WILL NOT WORK](#if-you-do-not-read-and-do-all-of-this-your-game-will-not-work)
+  - [Can't launch the game](#cant-launch-the-game)
+  - [Known Issues](#known-issues)
+    - [Albino Faces, aka Black and White People](#albino-faces-aka-black-and-white-people)
+    - [Adaptive Combat Rifle Bugs](#adaptive-combat-rifle-bugs)
+    - [This is two guides](#this-is-two-guides)
+  - [Gameplay Questions](#gameplay-questions)
+    - [Why is my VATS accuracy so high?](#why-is-my-vats-accuracy-so-high)
+    - [Why is power armor _reducing_ my carry weight?](#why-is-power-armor-reducing-my-carry-weight)
+    - [Arefu Expanded](#arefu-expanded)
+      - [Where the fuck is Mary?](#where-the-fuck-is-mary)
+      - [Where the fuck are Harry's tools?](#where-the-fuck-are-harrys-tools)
+
 So you just installed _Fallout 3_. I bet you never expected to do that ever again. But you did! That's great.
 
 Please remember that this modlist will not work if _Fallout 3_ is in C:\Program Files, C:\Program Files (x86), on the Desktop (you madman), in the Downloads directory, Documents, maybe even C:\ itself -- anywhere that Windows 10 thinks is "protected." So _move your Fallout 3_ if this is the case. 

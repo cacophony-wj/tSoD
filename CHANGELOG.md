@@ -1,5 +1,9 @@
 #CHANGELOG
 
+### 0.0.14
+
+- Damn follower was humping up and stopping all movement at various places in Arefu. This patch is an attempt to fix the navmesh nightmare that I had in place there.
+
 ### 0.0.13
 
 - Civis Romanus was supposed to fix the inability to get back into the Outcast Base. It didn't. So I added a fix for the fix.
