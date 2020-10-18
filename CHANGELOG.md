@@ -1,5 +1,9 @@
 #CHANGELOG
 
+### 0.1
+
+- Civis Romanus may be a more up-to-date patch, but it doesn't work with this list. Should have never included it. It has to come out. If you are having weird scripting bugs, especially with the workbench and other crafted gear, you need this update. Sadly, it is unlikely to be save safe.
+
 ### 0.0.14
 
 - Damn follower was humping up and stopping all movement at various places in Arefu. This patch is an attempt to fix the navmesh nightmare that I had in place there.
