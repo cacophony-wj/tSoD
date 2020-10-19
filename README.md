@@ -127,6 +127,9 @@ Go to the quest marker that Mediah directs you to, then search for a pile of bon
 
 #### Where the fuck are Harry's tools?
 
-This was perhaps the most infuriating of all to me. Head east of Arefu and look up at the bridge. Harry's house is the second shack from the right. (The far right one is the northern barricade). Somewhat east-north-east of Harry's house, on the ground below of course, you'll find a small smoking campfire. A note there tells you where one of the tools can be found. 
-The other two are nearby: the hammer on top of a bullshit rock slightly south, and the wrench wedged nearly entirely inside a tree near the rock. I can't get much more specific than that, sorry.
+This was perhaps the most infuriating of all to me. Head east of Arefu and look up at the bridge. Harry's house is the second shack from the right. (The far right one is the northern barricade). Somewhat east-north-east of Harry's house, on the ground below of course, you'll find a small smoking campfire. A note there tells you where one of the tools can be found. The other two are nearby: the hammer on top of a bullshit rock slightly south, and the wrench wedged nearly entirely inside a tree near the rock. I can't get much more specific than that, sorry.
+
+#### Where the fuck is the key to "Crazy Legs" Larry's safe?
+
+To the right of his display counter is a mattress. Next to that mattress is a small ugly nondescript book that no sane human would ever check. It's called a "clean-looking book." The key is inside.
 

@@ -1,5 +1,9 @@
 #CHANGELOG
 
+### 0.1.1
+
+- Added a small navmesh fix for "Crazy Legs" Larry getting stuck when attempting to run away.
+  
 ### 0.1
 
 - Civis Romanus may be a more up-to-date patch, but it doesn't work with this list. Should have never included it. It has to come out. If you are having weird scripting bugs, especially with the workbench and other crafted gear, you need this update. Sadly, it is unlikely to be save safe.
